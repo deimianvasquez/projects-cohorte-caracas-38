@@ -14,19 +14,15 @@ hospedaje comida y cirujia.
 > - Daliasca Rodriguez [Daliasca Rodriguez](https://github.com/dalirod)
 
 
-
-# 2 - sin nombre
+## 2 - sin nombre
 App web para centralizar cursos y eventos , conectar personas 
 ranking y comentarios. 
 
 ### github
+> - Beltrán Liscano [Beltrán Liscano](https://github.com/beltranaugusto)
+> - Liz Ugas [Liz Ugas](https://github.com/Lizu-4)
+> - Lorman Romero [Lorman Romero](https://github.com/Lormanrg)
 
-6.- Beltrán --> Lider 
-5.- Liz 
-8.- Lorman 
-
-
-gi
 
 # 3 - sin nombre
 Es algo difícil de explicar, pero por ejemplo, ahora las páginas de juegos donde hay 
@@ -41,9 +37,10 @@ Por ejemplo, 3 personas tienen unos tags en común, entonces le recomienda a los
 En la parte de críticas que mencioné, serán críticas normales con puntaje y etc, pero podrás ver al lado del usuario que puso la crítica cuales son sus tags y entender del porque su opinion, por lo cual, si alguien puso una mala reseña en un juego de simulación pero sus juegos principales son de disparos o acción puedes tomar su opinion menos en cuenta que la de alguien que sí tiene estos tags puestos
 Se que es algo como DEMASIADO complicado pero puede ayudar y servir si crece mucho
 
+### github
+> - Sebastian Cardona [Sebastian Cardona](https://github.com/MyNameIsGs/)
+> - Gustavo Marques [Gistavo Marques](https://github.com/)
 
-2.- Gustavo Marquez
-3.- Sebastian Cardona
 
 
 
