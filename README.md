@@ -1,12 +1,12 @@
 # Proyectos finales cohorte 34 - Caracas
 
 
-## 1 - sin nombre
+## TravelMed
 Aplicacion enfocada al turismo medico, tipo trivago que conecta 
 a profesionales de la salud, cirujia esteticas a nivel mundial para 
 abaratar costos ya que en venezuela la medicina es buena y economica
 consulta online o video llamada, osociar una app de vuelos comerciales
-hospedaje comida y cirujia.  
+hospedaje comida y cirujia.
 
 ### github
 > - Jhon Banks [Jhon Banks](https://github.com/Johndbm)
@@ -14,9 +14,8 @@ hospedaje comida y cirujia.
 > - Daliasca Rodriguez [Daliasca Rodriguez](https://github.com/dalirod)
 
 
-## 2 - sin nombre
-App web para centralizar cursos y eventos , conectar personas 
-ranking y comentarios. 
+## 2 - por decidir
+Página web para buscar cursos y eventos disponibles relacionados con aprendizaje y formación personal, profesional y académica dentro del territorio venezolano. Nombre(por definir) ofrece una plataforma donde los educadores pueden publicar sus cursos o eventos para estudiantes interesados en adquirir nuevos conocimientos dentro de distintas categorías.
 
 ### github
 > - Beltrán Liscano [Beltrán Liscano](https://github.com/beltranaugusto)
