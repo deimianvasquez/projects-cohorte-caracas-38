@@ -14,7 +14,7 @@ hospedaje comida y cirujia.
 > - Daliasca Rodriguez [Daliasca Rodriguez](https://github.com/dalirod)
 
 
-## 2 - por decidir
+## 2 - Course Hunter
 Página web para buscar cursos y eventos disponibles relacionados con aprendizaje y formación personal, profesional y académica dentro del territorio venezolano. Nombre(por definir) ofrece una plataforma donde los educadores pueden publicar sus cursos o eventos para estudiantes interesados en adquirir nuevos conocimientos dentro de distintas categorías.
 
 ### github
